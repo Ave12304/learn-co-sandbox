@@ -1,0 +1,2 @@
+gem install sinatra
+<h1><%= "I love" + "Ruby!!" %></h1>
